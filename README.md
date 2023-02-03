@@ -5,7 +5,7 @@
 Project developed at Bootcamp SPTech Development Fullstack with instruction from specialist [Carlos Victor Gomes](https://github.com/carlosvictor/ "Carlos Victor Gomes"). </br>
 Learning to develop a “Chatbot on Telegram with JavaScript and NodeJS” project, practicing and applying the concepts of integration and searches for videos of physical exercises on YouTube using a natural language understanding platform called DialogFlow.
 
-[LICENCE](./LICENCE)
+[LICENSE](./LICENSE)
 
 See [original repository](https://github.com/carlosvictor/dio-live-coding-chatbot).
 
